@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Live site
+
+The app is deployed on GitHub Pages at [https://bostonvip.github.io/ci-cd-app/](https://bostonvip.github.io/ci-cd-app/).
+The workflow publishes from the `main` branch.
+
 ### `npm start`
 
 Runs the app in the development mode.\
